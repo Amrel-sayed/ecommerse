@@ -86,7 +86,7 @@ if ($_SERVER['REQUEST_METHOD']=="POST"){
 
 							Dear $username, You have been registered on our site.
 
-							Please visit http://localhost/ecommerse/confirm.php?user=$usern&code=$rand to view your upvotes
+							Please visit https://ecommerse-a.herokuapp.com/confirm.php?user=$usern&code=$rand to view your upvotes
 
 							Regards.
 					";

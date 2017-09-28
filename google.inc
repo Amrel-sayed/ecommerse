@@ -6,7 +6,7 @@
 //You can get it from : https://console.developers.google.com/
 $client_id = '387437616722-kco46hdi4k5n6pl61iv47nvj07vpm1pk.apps.googleusercontent.com'; 
 $client_secret = '0ecFvtM1UOwn1pUfTIWsulhN';
-$redirect_uri = 'http://localhost/ecommerse/login.php?logst=signup';
+$redirect_uri = 'https://ecommerse-a.herokuapp.com/login.php?logst=signup';
 
 //database
 // $db_username = "amrtest"; //Database Username

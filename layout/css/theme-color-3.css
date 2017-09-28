@@ -1,0 +1,22 @@
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.dropdown-menu .divider,
+.dropdown-menu > li > a:focus,
+.dropdown-menu > li > a:hover{
+    background-color: #17ff82
+}
+
+.color-box ,
+.ourteam .member:hover img,
+#testimonial-carusel .carousel-indicators li.active,
+.dropdown-menu
+{
+    border-color: #17ff82;
+}
+
+.th-col,
+.statistics .item:hover 
+{
+    color: #17ff82;
+}
